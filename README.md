@@ -1,6 +1,6 @@
 # BatataBit 💵
 
-Batatabit es un proyecto que te ayuda a navegar entre los diferentes precios y rendencias.
+Batatabit es un proyecto que te ayuda a navegar entre los diferentes precios y tendencias.
 
 Recursos :
 
